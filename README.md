@@ -1,0 +1,2 @@
+# marketingdigital
+atividade pensamento computacional
